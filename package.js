@@ -1,7 +1,7 @@
 Package.describe({
   name: 'johnantoni:meteor-stickynav',
   summary: 'stickyNavbar.js: Fancy sticky navigation jQuery plugin with smart anchor link highlighting.',
-  version: '0.0.1',
+  version: '0.0.2',
   git: 'https://github.com/johnantoni/meteor-stickynavbar',
   documentation: 'README.md'
 });
