@@ -1,0 +1,3 @@
+[submodule "stickyNavbar.js"]
+	path = stickyNavbar.js
+	url = git@github.com:jbutko/stickyNavbar.js.git
